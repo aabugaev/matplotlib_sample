@@ -4,8 +4,8 @@ import seaborn as sns
 #sns.set()
 
 
-#fig = plt.figure()
-#ax = fig.add_subplot(2,2,1)
+fig = plt.figure()
+ax = fig.add_subplot(2,2,1)
 
 #or
 
